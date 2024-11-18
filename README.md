@@ -51,3 +51,9 @@ to add all files
 ```
 git add .
 ```
+
+
+commit changes
+```
+git commit -m "message"
+```
