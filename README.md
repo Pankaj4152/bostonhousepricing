@@ -57,3 +57,10 @@ commit changes
 ```
 git commit -m "message"
 ```
+
+
+
+pushing to main branch
+```
+git push origin main
+```
